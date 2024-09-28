@@ -1,0 +1,19 @@
+/* Warna background */
+.bg-dark-grey { background-color: #1E1E1E; }
+.bg-white { background-color: #FFFFFF; }
+.bg-light-grey { background-color: #DCDCDC; }
+.bg-medium-grey { background-color: #3F3F3F; }
+.bg-light-blue { background-color: #D6E6FF; }
+.bg-dark-pink { background-color: #720060; }
+.bg-pinkish-white { background-color: #FDE2FF; }
+.bg-dark-blue { background-color: #002772; }
+
+/* Warna text */
+.text-dark-grey { color: #1E1E1E; }
+.text-white { color: #FFFFFF; }
+.text-light-grey { color: #DCDCDC; }
+.text-medium-grey { color: #3F3F3F; }
+.text-light-blue { color: #D6E6FF; }
+.text-dark-pink { color: #720060; }
+.text-pinkish-white { color: #FDE2FF; }
+.text-dark-blue { color: #002772; }
